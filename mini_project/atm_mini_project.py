@@ -6,7 +6,7 @@ mobile_no=1234567890
 account_no=12345678901
 name='Mallinath'
 attempt=10
-total=10000
+total=10000 #balance
 import time
 s = int(input("please enter number between 1 to 25 : "))
 time.sleep(1)
